@@ -23,10 +23,10 @@ SmartRent is a simple web application designed to help users find and manage ren
 
 ## 👩‍💻 Team Members
 
-- Harshitha Dadi
-- Sujatha Desamsetti
 - Lavanya Jajimoggala
 - Meghana Paila
+- Harshitha Dadi
+- Sujatha Desamsetti
 
 ---
 
